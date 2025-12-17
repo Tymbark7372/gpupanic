@@ -76,7 +76,7 @@ if only one gpu: set up remote access first
 
 ## tested on
 
-- RTX 3050 laptop
+- RTX series gpu
 - should work on any nvidia with dx11
 
 ## license
@@ -84,3 +84,4 @@ if only one gpu: set up remote access first
 MIT - do whatever
 
 made by [Tymbark7372](https://github.com/Tymbark7372)
+
